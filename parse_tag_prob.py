@@ -41,4 +41,3 @@ def parse_tag_tag(file):
         for key2 in tag_tag_dict[key1].keys():
             tag_tag_dict[key1][key2] /= count    
     return tag_tag_dict
-

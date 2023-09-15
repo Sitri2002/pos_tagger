@@ -2,7 +2,7 @@ Rockwell NNP B-NP
 International NNP I-NP
 Corp. NNP I-NP
 's POS B-NP
-Tulsa NNP I-NP
+Tulsa NNP I-NP  
 unit NN I-NP
 said VBD B-VP
 it PRP B-NP
@@ -49386,4 +49386,3 @@ to TO B-PP
 Mr. NNP B-NP
 Harlow NNP I-NP
 . . O
-
